@@ -1,4 +1,4 @@
-package com.rony.Intermediate.Interview;
+package com.rony.Basic.Interview;
 //153 = 1^3 + 5^3 + 3^3
 public class Armstrong {
     public static void main(String[] args) {
