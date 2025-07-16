@@ -1,4 +1,4 @@
-package com.rony.Intermediate.Arrays.OneD;
+package com.rony.Basic.Arrays.OneD;
 
 import java.util.Arrays;
 
