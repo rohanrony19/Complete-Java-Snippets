@@ -1,4 +1,4 @@
-package com.rony.Intermediate.Interview;
+package com.rony.Basic.Interview;
 
 import java.util.Scanner;
 // 5 = 5*4*3*2*1 = 120
