@@ -1,4 +1,4 @@
-package com.rony.Intermediate.Arrays.OneD;
+package com.rony.Basic.Arrays.OneD;
 
 public class MaxElement {
     public static void main(String[] args) {
