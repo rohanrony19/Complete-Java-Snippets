@@ -1,4 +1,4 @@
-package com.rony.Intermediate.Patterns;
+package com.rony.Basic.Patterns;
 
 public class P1 {
     public static void main(String[] args) {
