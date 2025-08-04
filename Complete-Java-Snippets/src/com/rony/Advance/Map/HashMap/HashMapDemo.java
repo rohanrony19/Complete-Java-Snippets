@@ -31,7 +31,7 @@ public class HashMapDemo {
             System.out.println(entry.getKey() + ": " + entry.getValue().toUpperCase());
         }
 
-        map.remove(2);
+        map.remove(2); 
         System.out.println(map);
 
 
