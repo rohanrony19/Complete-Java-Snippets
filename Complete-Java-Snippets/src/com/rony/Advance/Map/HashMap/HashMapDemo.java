@@ -24,14 +24,14 @@ public class HashMapDemo {
         Set<Integer> keys = map.keySet();
         for (int i : keys){
             System.out.println(map.get(i));
-        }
+        }  
 
         Set<Map.Entry<Integer, String>> entries = map.entrySet() ;
         for (Map.Entry<Integer, String> entry:entries){
             System.out.println(entry.getKey() + ": " + entry.getValue().toUpperCase());
         }
 
-        map.remove(2); 
+        map.remove(2);
         System.out.println(map);
 
 
