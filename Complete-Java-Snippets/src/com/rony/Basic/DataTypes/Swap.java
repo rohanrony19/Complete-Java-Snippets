@@ -9,6 +9,7 @@ public class Swap {
         int a = sc.nextInt();
         System.out.print("Enter first number (b) :");
         int b = sc.nextInt();
+
         int temp = a;
         a = b;
         b = temp;
