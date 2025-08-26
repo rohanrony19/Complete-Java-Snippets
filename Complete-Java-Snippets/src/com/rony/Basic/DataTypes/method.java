@@ -6,6 +6,7 @@ public class method {
         String str = "method with parameter";
         System.out.println(name);
         return str;
+
     }
 }
 
