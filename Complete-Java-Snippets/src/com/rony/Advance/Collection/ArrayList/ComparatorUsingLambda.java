@@ -18,5 +18,6 @@ public class ComparatorUsingLambda {
         List<String> list1 = Arrays.asList("Papaya","Apple","Pie","Watermelon","Guva");
         list1.sort((x,y)->x.length()-y.length());
         System.out.println(list1);
+
     }
 }
