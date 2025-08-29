@@ -5,7 +5,6 @@ public class Static {
         Static.age = 10;
         System.out.println(age);
         Static.method();
-
     }
     static int age;
 
