@@ -11,7 +11,7 @@ public class ComparatorUsingLambda {
         list.add(56);
         list.add(23);
         list.add(4);
-        list.add(18);   
+        list.add(18);     
         list.sort((a,b)->b-a);
         System.out.println(list);
 
